@@ -1,3 +1,9 @@
+obs-service-set-version (0.6.4-algolia) unstable; urgency=low
+
+  * Update to release 0.6.4 with deb patchs
+
+ -- Jeremy Jacque <jeremy.jacque@algolia.com>  Mon, 20 May 2024 16:20:20 +0200
+
 obs-service-set-version (0.4.2) unstable; urgency=low
 
   * the extension needs to be \.
